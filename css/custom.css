@@ -1,0 +1,31 @@
+body {
+  background: #000;
+}
+
+.navbar-default {
+  background-color: #000;
+}
+
+#testimonials,
+#contact {
+  background: #000;
+}
+
+.btn-primary {
+  color: #000;
+}
+
+.btn-primary:hover {
+  color: #000;
+}
+
+.close {
+  color: #ffffff;
+  text-shadow: none;
+  opacity: 1;
+}
+
+.close:hover {
+  color: #FFF;
+}
+/*# sourceMappingURL=custom.css.map */
